@@ -6,3 +6,5 @@ test the second time update this file.
 
 ====2017-03-10====
 I do something in my dev branch.
+
+Create a new branch is simple.
