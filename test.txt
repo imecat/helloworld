@@ -9,3 +9,5 @@ I do something in my dev branch.
 
 ====2017-03-10 14:04:20====
 Create a new branch is simple.
+
+this test no fast-forward.
